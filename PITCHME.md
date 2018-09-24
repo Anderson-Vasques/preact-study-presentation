@@ -28,17 +28,16 @@ render(<HelloWorld />, document.body);
 ```
 +++
 @title[3]
+### Minhas ideias
 
-@snap[west] 
-@ul
-USAR PREACT
-DIFERENÇAS PREACT X REACT
-VDOM
-DIFF
-COMPONENTS
-JSX
-REATIVIDADE
-CONQUISTAR O MUNDO @ulend @snapend
+##### USAR PREACT, 
+##### DIFERENÇAS PREACT X REACT, 
+##### VDOM, 
+##### DIFF, 
+##### COMPONENTS, 
+##### JSX, 
+##### REATIVIDADE, 
+##### CONQUISTAR O MUNDO @ulend @snapend
 
 +++
 @title[4]
@@ -49,27 +48,26 @@ CONQUISTAR O MUNDO @ulend @snapend
 @title[5]
 ### O que eu consegui até agora
 
-@ul
-USAR PREACT
-JSX
-VDOM (meh) @ulend
----
-
-### Efeitos
-
-![Press Down Key](assets/down-arrow.png)
+##### USAR PREACT, 
+##### JSX, 
+##### VDOM (meh)
 
 +++
-@title[hide/show efect]
-
-###### Escondendo elementos com o método **hide()**
-
-```javascript
-var paragraphs = $('p');
-paragraphs.hide();
-```
-
-@[1](Selecionar todos as tags **p** do documento)
-@[2](Esconder todas as tags **p**. O jQuery modifica o estilo do elemento adicionando um atributo **style** e adiciona o valor **none** para a propriedade **display**)
+@title[6]
+### Preact é biblioteca que implementa a maior parte da API do REACT
 
 +++
+@title[7]
+### Ideia principal
+
++++
+@title[8]
+### Compatibilidade (14, 15)
+
++++
+@title[9]
+### Tamanho (~3kb)
+
++++
+@title[10]
+#### Internet, performance, parsing
