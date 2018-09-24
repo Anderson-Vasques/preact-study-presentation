@@ -32,8 +32,6 @@ render(<HelloWorld />, document.body);
 
 @snap[west] 
 @ul
-
-Aprender a usar PREACT e os funcionamentos internos
 USAR PREACT
 DIFERENÇAS PREACT X REACT
 VDOM
