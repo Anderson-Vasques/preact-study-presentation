@@ -28,7 +28,6 @@ render(<HelloWorld />, document.body);
 ```
 +++
 @title[3]
-### Minhas ideias
 
 @snap[west] 
 @ul
