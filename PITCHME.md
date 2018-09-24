@@ -45,19 +45,17 @@ CONQUISTAR O MUNDO @ulend @snapend
 
 +++
 @title[4]
-![Preact](assets/preact.png)
+[Preact](https://preactjs.com/)
 [Funcionamento interno](https://cdn-images-1.medium.com/max/2000/1*TF0TZszVwpYc1Pba7Dbk7Q.png)
 
 +++
 @title[5]
 ### O que eu consegui até agora
 
-@snap[now] 
 @ul
-
 USAR PREACT
 JSX
-VDOM (meh) @ulend @snapend
+VDOM (meh) @ulend
 ---
 
 ### Efeitos
